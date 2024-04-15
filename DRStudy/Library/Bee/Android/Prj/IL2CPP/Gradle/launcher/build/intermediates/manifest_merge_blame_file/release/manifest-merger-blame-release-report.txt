@@ -110,11 +110,11 @@
 61            android:value="black" />
 61-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-34
 62        <meta-data
-62-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:9-56:47
+62-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:9-56:54
 63            android:name="com.oculus.supportedDevices"
 63-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-55
-64            android:value="quest2|questpro" />
-64-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-44
+64            android:value="quest2|questpro|eureka" />
+64-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-51
 65        <meta-data
 65-->[:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:9-59:33
 66            android:name="unity.splash-mode"

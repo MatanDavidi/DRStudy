@@ -84,9 +84,9 @@ ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\
 	android:name
 		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-61
 meta-data#com.oculus.supportedDevices
-ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-93
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-100
 	android:value
-		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:59-90
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:59-97
 	android:name
 		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-58
 meta-data#unity.splash-mode

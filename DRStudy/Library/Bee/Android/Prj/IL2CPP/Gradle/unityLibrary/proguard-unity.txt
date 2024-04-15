@@ -20,3 +20,11 @@
 -keep class com.unity.oculus.OculusUnity { *; }
 
 -keep class com.unity.oculus.OculusUnity { *; }
+
+-keep class com.unity.oculus.OculusUnity { *; }
+
+-keep class com.unity.oculus.OculusUnity { *; }
+
+-keep class com.unity.oculus.OculusUnity { *; }
+
+-keep class com.unity.oculus.OculusUnity { *; }

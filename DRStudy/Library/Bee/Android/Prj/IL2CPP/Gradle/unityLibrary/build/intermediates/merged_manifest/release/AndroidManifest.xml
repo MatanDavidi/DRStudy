@@ -53,7 +53,7 @@
             android:value="black" />
         <meta-data
             android:name="com.oculus.supportedDevices"
-            android:value="quest2|questpro" />
+            android:value="quest2|questpro|eureka" />
         <meta-data
             android:name="unity.splash-mode"
             android:value="0" />

@@ -4070,6 +4070,10 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Matrix4x4_Inverse3DAffine_Injected();
 		Register_UnityEngine_Matrix4x4_Inverse3DAffine_Injected();
 
+		//System.Boolean UnityEngine.Matrix4x4::IsIdentity_Injected(UnityEngine.Matrix4x4&)
+		void Register_UnityEngine_Matrix4x4_IsIdentity_Injected();
+		Register_UnityEngine_Matrix4x4_IsIdentity_Injected();
+
 		//System.Void UnityEngine.Matrix4x4::DecomposeProjection_Injected(UnityEngine.Matrix4x4&,UnityEngine.FrustumPlanes&)
 		void Register_UnityEngine_Matrix4x4_DecomposeProjection_Injected();
 		Register_UnityEngine_Matrix4x4_DecomposeProjection_Injected();
@@ -5029,6 +5033,10 @@ void RegisterAllStrippedInternalCalls()
 		//UnityEngine.Material UnityEngine.Renderer::GetSharedMaterial()
 		void Register_UnityEngine_Renderer_GetSharedMaterial();
 		Register_UnityEngine_Renderer_GetSharedMaterial();
+
+		//UnityEngine.Material[] UnityEngine.Renderer::GetMaterialArray()
+		void Register_UnityEngine_Renderer_GetMaterialArray();
+		Register_UnityEngine_Renderer_GetMaterialArray();
 
 	//End Registrations for type : UnityEngine.Renderer
 
@@ -6025,6 +6033,10 @@ void RegisterAllStrippedInternalCalls()
 		//System.Void UnityEngine.Shader::SetGlobalFloatImpl(System.Int32,System.Single)
 		void Register_UnityEngine_Shader_SetGlobalFloatImpl();
 		Register_UnityEngine_Shader_SetGlobalFloatImpl();
+
+		//System.Void UnityEngine.Shader::SetGlobalMatrixArrayImpl(System.Int32,UnityEngine.Matrix4x4[],System.Int32)
+		void Register_UnityEngine_Shader_SetGlobalMatrixArrayImpl();
+		Register_UnityEngine_Shader_SetGlobalMatrixArrayImpl();
 
 		//System.Void UnityEngine.Shader::SetGlobalTextureImpl(System.Int32,UnityEngine.Texture)
 		void Register_UnityEngine_Shader_SetGlobalTextureImpl();
@@ -7369,6 +7381,10 @@ void RegisterAllStrippedInternalCalls()
 		//System.Void UnityEngine.XR.XRDisplaySubsystem::set_zNear(System.Single)
 		void Register_UnityEngine_XR_XRDisplaySubsystem_set_zNear();
 		Register_UnityEngine_XR_XRDisplaySubsystem_set_zNear();
+
+		//UnityEngine.RenderTexture UnityEngine.XR.XRDisplaySubsystem::GetRenderTexture(System.UInt32)
+		void Register_UnityEngine_XR_XRDisplaySubsystem_GetRenderTexture();
+		Register_UnityEngine_XR_XRDisplaySubsystem_GetRenderTexture();
 
 	//End Registrations for type : UnityEngine.XR.XRDisplaySubsystem
 

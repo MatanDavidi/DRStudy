@@ -96,11 +96,11 @@
 53            android:value="black" />
 53-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:62-83
 54        <meta-data
-54-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-93
+54-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-100
 55            android:name="com.oculus.supportedDevices"
 55-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-58
-56            android:value="quest2|questpro" />
-56-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:59-90
+56            android:value="quest2|questpro|eureka" />
+56-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:59-97
 57        <meta-data
 57-->D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-69
 58            android:name="unity.splash-mode"

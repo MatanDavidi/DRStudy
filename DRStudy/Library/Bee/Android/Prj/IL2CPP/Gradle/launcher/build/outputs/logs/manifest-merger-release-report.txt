@@ -158,9 +158,9 @@ ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\
 	android:name
 		ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:13-58
 meta-data#com.oculus.supportedDevices
-ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:9-56:47
+ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:9-56:54
 	android:value
-		ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-44
+		ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-51
 	android:name
 		ADDED from [:unityLibrary] D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-55
 meta-data#unity.splash-mode

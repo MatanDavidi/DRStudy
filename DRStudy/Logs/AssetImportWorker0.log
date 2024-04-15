@@ -15,7 +15,7 @@ D:/Users/Matan/UnityProjects/DRStudy/DRStudy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57760
+58730
 Successfully changed project path to: D:/Users/Matan/UnityProjects/DRStudy/DRStudy
 D:/Users/Matan/UnityProjects/DRStudy/DRStudy
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,13 +49,13 @@ D:/Users/Matan/UnityProjects/DRStudy/DRStudy
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [12312] Host "[IP] 10.144.64.168 [Port] 0 [Flags] 2 [Guid] 2416905680 [EditorId] 2416905680 [Version] 1048832 [Id] WindowsEditor(7,iwf-ws059) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [19720] Host "[IP] 10.144.64.168 [Port] 0 [Flags] 2 [Guid] 2459991907 [EditorId] 2459991907 [Version] 1048832 [Id] WindowsEditor(7,iwf-ws059) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [12312] Host "[IP] 10.144.64.168 [Port] 0 [Flags] 2 [Guid] 2416905680 [EditorId] 2416905680 [Version] 1048832 [Id] WindowsEditor(7,iwf-ws059) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [19720] Host "[IP] 10.144.64.168 [Port] 0 [Flags] 2 [Guid] 2459991907 [EditorId] 2459991907 [Version] 1048832 [Id] WindowsEditor(7,iwf-ws059) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
-Refreshing native plugins compatible for Editor in 10.92 ms, found 11 plugins.
-Preloading 3 native plugins for Editor in 1.86 ms.
+Refreshing native plugins compatible for Editor in 10.89 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 1.75 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path D:/Users/Matan/UnityProjects/DRStudy/DRStudy/Assets
@@ -72,19 +72,19 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56392
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009778 seconds.
-- Loaded All Assemblies, in  0.328 seconds
+Registered in 0.009794 seconds.
+- Loaded All Assemblies, in  0.336 seconds
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 215 ms
+Android Extension - Scanning For ADB Devices 189 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.512 seconds
-Domain Reload Profiling: 839ms
+- Finished resetting the current domain, in  0.490 seconds
+Domain Reload Profiling: 825ms
 	BeginReloadAssembly (100ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
@@ -93,26 +93,26 @@ Domain Reload Profiling: 839ms
 		CreateAndSetChildDomain (1ms)
 	RebuildCommonClasses (30ms)
 	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (55ms)
-	LoadAllAssembliesAndSetupDomain (132ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (137ms)
 		LoadAssemblies (98ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (130ms)
-			TypeCache.Refresh (128ms)
-				TypeCache.ScanAssembly (116ms)
+		AnalyzeDomain (135ms)
+			TypeCache.Refresh (134ms)
+				TypeCache.ScanAssembly (120ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (513ms)
+	FinalizeReload (491ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (463ms)
+		SetupLoadedEditorAssemblies (440ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (317ms)
+			InitializePlatformSupportModulesInManaged (293ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (99ms)
-			ProcessInitializeOnLoadMethodAttributes (41ms)
+			ProcessInitializeOnLoadAttributes (100ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -121,8 +121,8 @@ Domain Reload Profiling: 839ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  0.680 seconds
-Refreshing native plugins compatible for Editor in 6.11 ms, found 11 plugins.
+- Loaded All Assemblies, in  0.685 seconds
+Refreshing native plugins compatible for Editor in 5.96 ms, found 11 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Package Manager log level set to [2]
@@ -157,9 +157,9 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.677 seconds
-Domain Reload Profiling: 1355ms
-	BeginReloadAssembly (131ms)
+- Finished resetting the current domain, in  0.681 seconds
+Domain Reload Profiling: 1364ms
+	BeginReloadAssembly (136ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
@@ -168,38 +168,38 @@ Domain Reload Profiling: 1355ms
 	RebuildCommonClasses (29ms)
 	RebuildNativeTypeToScriptingClass (10ms)
 	initialDomainReloadingComplete (37ms)
-	LoadAllAssembliesAndSetupDomain (471ms)
-		LoadAssemblies (299ms)
+	LoadAllAssembliesAndSetupDomain (470ms)
+		LoadAssemblies (302ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (248ms)
-			TypeCache.Refresh (195ms)
-				TypeCache.ScanAssembly (173ms)
-			ScanForSourceGeneratedMonoScriptInfo (36ms)
+		AnalyzeDomain (249ms)
+			TypeCache.Refresh (197ms)
+				TypeCache.ScanAssembly (174ms)
+			ScanForSourceGeneratedMonoScriptInfo (35ms)
 			ResolveRequiredComponents (16ms)
-	FinalizeReload (678ms)
+	FinalizeReload (681ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (495ms)
+		SetupLoadedEditorAssemblies (502ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (22ms)
+			InitializePlatformSupportModulesInManaged (21ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (86ms)
-			ProcessInitializeOnLoadAttributes (313ms)
-			ProcessInitializeOnLoadMethodAttributes (64ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (317ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (7ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (6ms)
-Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 6.11 ms, found 11 plugins.
-Preloading 3 native plugins for Editor in 0.08 ms.
+Refreshing native plugins compatible for Editor in 6.03 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.07 ms.
 Unloading 6813 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 109 unused Assets / (411.5 KB). Loaded Objects now: 7241.
-Memory consumption went from 272.7 MB to 272.3 MB.
-Total: 3.954900 ms (FindLiveObjects: 0.517700 ms CreateObjectMapping: 0.532600 ms MarkObjects: 2.659000 ms  DeleteObjects: 0.245100 ms)
+Unloading 109 unused Assets / (413.2 KB). Loaded Objects now: 7241.
+Memory consumption went from 272.6 MB to 272.2 MB.
+Total: 4.416500 ms (FindLiveObjects: 0.583300 ms CreateObjectMapping: 0.659000 ms MarkObjects: 2.918600 ms  DeleteObjects: 0.255100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -215,39 +215,15 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 1575071.996071 seconds.
-  path: Assets/Scenes/SeethroughScene.unity
-  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SeethroughScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4d59b54a2c847c22227248780156e8') in 0.001896 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 64.167733 seconds.
-  path: Assets/Scenes/DiminishedRealityScene.unity
-  artifactKey: Guid(b5af2b1ba8d58204fbbae337744a33e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/DiminishedRealityScene.unity using Guid(b5af2b1ba8d58204fbbae337744a33e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855e492e0f5651f53f66c677764c1e43') in 0.000472 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 41.718279 seconds.
-  path: Assets/Scenes/DiminishedRealityScene.unity
-  artifactKey: Guid(b5af2b1ba8d58204fbbae337744a33e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/DiminishedRealityScene.unity using Guid(b5af2b1ba8d58204fbbae337744a33e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caa94f626479c723452fa741c573149') in 0.000467 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
 Received Prepare
-Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
 Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
-Refreshing native plugins compatible for Editor in 6.60 ms, found 11 plugins.
-Preloading 3 native plugins for Editor in 0.08 ms.
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Refreshing native plugins compatible for Editor in 6.46 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.07 ms.
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 2 unused Assets / (329.2 KB). Loaded Objects now: 7241.
-Memory consumption went from 128.5 MB to 128.2 MB.
-Total: 4.026200 ms (FindLiveObjects: 0.568900 ms CreateObjectMapping: 0.621200 ms MarkObjects: 2.761900 ms  DeleteObjects: 0.073400 ms)
+Memory consumption went from 129.1 MB to 128.8 MB.
+Total: 3.911200 ms (FindLiveObjects: 0.520200 ms CreateObjectMapping: 0.505400 ms MarkObjects: 2.813800 ms  DeleteObjects: 0.071000 ms)
 
 Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -263,3 +239,219 @@ AssetImportParameters requested are different than current active one (requested
   custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Refreshing native plugins compatible for Editor in 6.24 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.08 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (329.2 KB). Loaded Objects now: 7241.
+Memory consumption went from 128.4 MB to 128.1 MB.
+Total: 4.398400 ms (FindLiveObjects: 0.532400 ms CreateObjectMapping: 0.568400 ms MarkObjects: 3.232100 ms  DeleteObjects: 0.064700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Refreshing native plugins compatible for Editor in 6.23 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.08 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (329.2 KB). Loaded Objects now: 7241.
+Memory consumption went from 128.4 MB to 128.1 MB.
+Total: 3.933500 ms (FindLiveObjects: 0.538000 ms CreateObjectMapping: 0.602800 ms MarkObjects: 2.726500 ms  DeleteObjects: 0.065700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Prepare
+Shader 'Oculus/OVRMRCameraFrameLit': fallback shader 'Alpha-Diffuse' not found
+Shader 'Scene/HighlightsAndShadows': fallback shader 'Off' not found
+Refreshing native plugins compatible for Editor in 6.63 ms, found 11 plugins.
+Preloading 3 native plugins for Editor in 0.08 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (329.1 KB). Loaded Objects now: 7241.
+Memory consumption went from 128.4 MB to 128.1 MB.
+Total: 4.532100 ms (FindLiveObjects: 0.599200 ms CreateObjectMapping: 0.603200 ms MarkObjects: 3.243000 ms  DeleteObjects: 0.085800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1578311.748969 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.024333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 33.542790 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(f3199726de01d4642ada1f6d80612d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(f3199726de01d4642ada1f6d80612d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08cf9a24b5fe8a9456f7544fac76084f') in 0.000418 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 27.223050 seconds.
+  path: Assets/Materials/OculusOcclusionShader.mat
+  artifactKey: Guid(103a269085594414bbc1d39fa0390624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/OculusOcclusionShader.mat using Guid(103a269085594414bbc1d39fa0390624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc105f4a506e3232a930d91fd19b5373') in 0.511134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 62.678569 seconds.
+  path: Packages/com.meta.xr.depthapi/package.json
+  artifactKey: Guid(1b14c3056f8840a409f606683b88ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi/package.json using Guid(1b14c3056f8840a409f606683b88ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '398d53999fd848fbfb302c2609a7f960') in 0.000897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.438802 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/package.json
+  artifactKey: Guid(c9503d066d2624e48a39d9e6f2f946c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/package.json using Guid(c9503d066d2624e48a39d9e6f2f946c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba023c2ca8f33fd6c26f4d79bb9990bd') in 0.000825 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.224944 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders
+  artifactKey: Guid(81aea5d06329e2e478846bbea774a289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders using Guid(81aea5d06329e2e478846bbea774a289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479a5aadc9a7947741edf6a5bce2bcf4') in 0.000473 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.044892 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/EnvironmentOcclusionURP.hlsl
+  artifactKey: Guid(b4ce2e89e385ba746a6a0c5a3b9d5714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/EnvironmentOcclusionURP.hlsl using Guid(b4ce2e89e385ba746a6a0c5a3b9d5714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e71ee0516833fc126419a0acb13beea7') in 0.000941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.642364 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders
+  artifactKey: Guid(49f859d57848b5d41a45ee4c994eec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders using Guid(49f859d57848b5d41a45ee4c994eec49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c229e95574901fea653c2e62f1e6a037') in 0.000569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.030201 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/BakedLitForwardPass.hlsl
+  artifactKey: Guid(3fe658e178c247d4e9fbb22861c8ece5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/BakedLitForwardPass.hlsl using Guid(3fe658e178c247d4e9fbb22861c8ece5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4340df2e82a3255c46600d8838876c25') in 0.000944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003227 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesLitInput.hlsl
+  artifactKey: Guid(e67ed3e26a5f0a1459598e5a14c0befe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesLitInput.hlsl using Guid(e67ed3e26a5f0a1459598e5a14c0befe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e52e566514f7a34e0fb86fc130a8afb9') in 0.001082 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/SimpleLitForwardPass.hlsl
+  artifactKey: Guid(2bb45702ba2f32345a9a269833695fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/SimpleLitForwardPass.hlsl using Guid(2bb45702ba2f32345a9a269833695fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1fc1a4673999a617986d24d35001ec') in 0.001265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesSimpleLitForwardPass.hlsl
+  artifactKey: Guid(1d49069a67905b144ac920386c54170b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesSimpleLitForwardPass.hlsl using Guid(1d49069a67905b144ac920386c54170b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245146b54b5ecb3bf0fc4e7f90ebd963') in 0.000907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesInput.hlsl
+  artifactKey: Guid(f386be80564fbd0448d4ac9ac2677a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesInput.hlsl using Guid(f386be80564fbd0448d4ac9ac2677a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc32fe2b7da7074a5de760ab2af4e378') in 0.000969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesUnlitForwardPass.hlsl
+  artifactKey: Guid(410d3c59f7bf1ee439a887ff9ce7b55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesUnlitForwardPass.hlsl using Guid(410d3c59f7bf1ee439a887ff9ce7b55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b2cc8437ae33180159a35b527380d1') in 0.000923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesUnlitInput.hlsl
+  artifactKey: Guid(569a58d12b6970644a9372c9be10ef03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shaders/StandardShaders/ParticlesUnlitInput.hlsl using Guid(569a58d12b6970644a9372c9be10ef03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29a8e3462bc14179858c19dd15462c2') in 0.000864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.942323 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shadergraph
+  artifactKey: Guid(b76d8b14f9c351046975e4981b793617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shadergraph using Guid(b76d8b14f9c351046975e4981b793617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2431e3c2efce8736380d7a9e5ae6cc8') in 0.000545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.019305 seconds.
+  path: Packages/com.meta.xr.depthapi.urp/Shadergraph/CalculateEnvironmentDepthOcclusion.hlsl
+  artifactKey: Guid(5e4eeb76fc1fe4a4584f09a705139e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.meta.xr.depthapi.urp/Shadergraph/CalculateEnvironmentDepthOcclusion.hlsl using Guid(5e4eeb76fc1fe4a4584f09a705139e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd928fc24b66588999f84459ec6e035d2') in 0.001033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
