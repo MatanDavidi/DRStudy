@@ -3,3 +3,4 @@ DRStudy/Library/PackageCache/com.unity.burst@1.8.11/.Runtime/hostmac/dsymutil fi
 *.so filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 *.assets filter=lfs diff=lfs merge=lfs -text
+*.aar filter=lfs diff=lfs merge=lfs -text
