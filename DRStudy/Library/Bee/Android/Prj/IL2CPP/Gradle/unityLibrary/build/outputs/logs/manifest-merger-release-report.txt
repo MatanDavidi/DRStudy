@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:148-176
+		INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-116
+	xmlns:android
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:117-147
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+uses-feature#android.hardware.vr.headtracking
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-111
+	android:version
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:65-84
+	android:required
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:85-108
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-64
+uses-feature#0x00030000
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+	android:glEsVersion
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-91
+	android:required
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:64-88
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-88
+	android:required
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:61-85
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-99
+	android:required
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:72-96
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-108
+	android:required
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:81-105
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-80
+application
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-33:17
+	android:extractNativeLibs
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:109-141
+	android:label
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-48
+	android:icon
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:49-80
+	android:allowBackup
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:81-108
+	android:networkSecurityConfig
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:142-197
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-89
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:65-86
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-64
+meta-data#com.samsung.android.vr.application.mode
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-97
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:71-94
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-70
+meta-data#com.oculus.ossplash.background
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-86
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:62-83
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-61
+meta-data#com.oculus.supportedDevices
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-93
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:59-90
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-58
+meta-data#unity.splash-mode
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-50
+meta-data#unity.launch-fullscreen
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-78
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:55-75
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-54
+meta-data#unity.allow-resizable-window
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-84
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:60-81
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-59
+meta-data#notch.config
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-81
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:44-78
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-84
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:61-81
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:5-29:16
+	android:screenOrientation
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:334-371
+	android:excludeFromRecents
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:276-309
+	android:launchMode
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:190-221
+	android:hardwareAccelerated
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:407-442
+	android:exported
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:310-333
+	android:resizeableActivity
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:372-406
+	android:configChanges
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:80-189
+	android:theme
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:15-79
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:222-275
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:7-26:23
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:19-66
+category#com.oculus.intent.category.VR
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:9-66
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:19-63
+action#android.intent.action.MAIN
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:17-58
+meta-data#com.oculus.vr.focusaware
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:7-81
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:58-78
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:18-57
+meta-data#notch_support
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:7-70
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:47-67
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:18-46
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:5-90
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:67-87
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:16-66
+meta-data#com.unity.xr.oculus.LateLatching
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:5-88
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:64-85
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:16-63
+meta-data#com.unity.xr.oculus.LateLatchingDebug
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:5-93
+	android:value
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:69-90
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:16-68
+uses-permission#com.oculus.permission.USE_ANCHOR_API
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:3-74
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:34:20-71
+uses-feature#com.oculus.feature.PASSTHROUGH
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:3-90
+	android:required
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:63-87
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:35:17-62
+uses-permission#com.oculus.permission.USE_SCENE
+ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:3-69
+	android:name
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:36:20-66
+uses-sdk
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Matan\UnityProjects\DRStudy\DRStudy\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
