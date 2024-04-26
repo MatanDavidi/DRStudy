@@ -1,0 +1,8 @@
+The CAAV dataset contains videos depicting the following potentially disturbing situations:
+
+    Kidnapping
+    Physical assault
+    Drug use
+    Violent actions with weapons (e.g., knives)
+
+These videos aim to elicit strong emotional responses and may be upsetting or triggering for some viewers. Viewer discretion is advised.
