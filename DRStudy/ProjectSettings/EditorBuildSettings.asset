@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SingleDemoScene.unity
+    guid: b5af2b1ba8d58204fbbae337744a33e7
+  - enabled: 0
+    path: Assets/Scenes/DRDemoScene.unity
+    guid: 62c5e4a3ba5ea1f4c87c5b25ee3631c1
+  - enabled: 1
+    path: Assets/Scenes/DRStudyScene.unity
+    guid: 3bfe76e4ee433c84197ecd133beab63f
+  - enabled: 0
+    path: Assets/Scenes/DesktopStudyScene.unity
+    guid: 18f2f541a77cb3b44bc731d0c091f13e
+  - enabled: 0
+    path: Assets/Scenes/NoDRStudyScene.unity
+    guid: 46a2152a8c96e9d4db27ee45185ce1e7
+  - enabled: 0
+    path: Assets/Scenes/Test test.unity
+    guid: a5bc5d49ffeaa5642a9965f8dca4f255
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c17f6da6f1383c3418002cd5c5c1f42b,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: db8fb416302043243b4d484a86e7be2d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d753fe99345f1b48b60f4ac7cba5832,
+      type: 2}
