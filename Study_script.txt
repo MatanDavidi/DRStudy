@@ -1,0 +1,51 @@
+Welcome and thank your for choosing to participate in this user study.
+Over the course of approximately the next half hour you will go through three phases of study, which will be further discussed later: the Welcome phase, the Performance phase, and the Debriefing phase.
+If anything is unclear you may interrupt the explanation for further clarification at any time. If you wish, you may also interrupt the participation at any point without needing to explain yourself.
+
+The Welcome phase consists of the briefing we are currently doing, filling out the participation consent form you may find in front of you, and filling out a preliminary form.
+
+Once you have filled out this form, we will begin the Performance phase. 
+Please fill out the questionnaire now, it has two sides.
+
+[FILL OUT Welcome questionnaire]
+
+Before we begin, the study involves distracting videos from a dataset which contains, among less intense ones, clips depicting the following potentially disturbing situations:
+
+    Blood
+    Kidnapping
+    Physical assault
+    Drug use
+    Violent actions with weapons (e.g., knives)
+    Nazi symbols
+    Tiny bug jumpscares
+
+These videos aim to elicit strong emotional responses and may be upsetting or triggering for some viewers. If you are uncomfortable with any one or more of these topics, please say so now, and you will be dismissed from participating in the study and any data you have provided will be deleted immediately.
+
+During the performance phase, you will be assigned a permutation of two conditions under which you will be asked to perform a clicking task, physically at first, and then in the headset. 
+This task involves you sitting down at a normal office desk, with a regular mouse and three displays on it. On the center screen you will find a button you may click to start the task, which will bring up a 10x10 matrix of buttons with two-digit numbers on them. On the two side displays you will be shown some distracting videos depending on the condition.
+
+Without any further prompt or instruction, after 5 seconds from your press on the "Start" button, a button on the 10x10 matrix will change its background and its text colour (henceforth referred to as 'activation' of that button). 
+You will need to click on the single button that activates within a time limit of 3 seconds.
+
+After you successfully click on a button before the time limit, or after said time limit expires, that button will deactivate (its colours will return to normal), and a new one will activate in its place. You will need to click on every button that activates.
+There is no penalty for misclicking, but it will be recorded as a mistake.
+
+After 50 activations and deactivations, it will no longer be only 1 button that activates, but 2.
+On the top of your screen you will thus be shown a black text saying "Please press button n", where n corresponds to the text of the button you need to press. Please note that only clicking the indicated button corresponds to the 2 buttons' deactivation, whereas clicking on the wrong button, even if it is active, will be registered as a misclick.
+The rest of the procedure remains the same for a total of 25 further clicks.
+
+After a total of 75 activations, the task under that condition will finish, and you will be asked to fill out some standardised forms.
+
+You may now choose to practice this task or move on to the actual study.
+
+After a task is finished and you have filled out the forms related to a specific condition, you will move on to the next one. The conditions are as follows. Please note that the order will be randomized:
+1. You don't wear any headset, and the screens are physical. The 2 side ones show some videos meant to distract you.
+2. You don't wear any headset, and the screens are physical. The 2 side ones are diminished, and no longer visible.
+3. You wear the Meta Quest 3 head-mounted display, and the screens are virtual. The 2 side ones show some videos meant to distract you.
+4. You wear the Meta Quest 3 head-mounted display, and the screens are virtual. The 2 side ones are diminished and no longer visible.
+
+After the questionnaires for the last condition have been filled out, we will enter the Debriefing phase. 
+You will fill out a final questionnaire where you will order the 4 task conditions, and state how distracted you felt by the videos you were shown.
+
+Finally, after all of this, you will receive your compensation if you choose, and then be dismissed.
+Do you have any questions?
